@@ -1,13 +1,14 @@
 # Terminimal
 
-[![Build Status](https://travis-ci.org/pawroman/zola-theme-terminimal.svg?branch=master)](https://travis-ci.org/pawroman/zola-theme-terminimal)
+[![Build Status](https://github.com/pawroman/zola-theme-terminimal/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/pawroman/zola-theme-terminimal/actions/workflows/pages/pages-build-deployment)
 ![No JavaScript](https://img.shields.io/badge/JavaScript-none-brightgreen.svg)
 
-![Screenshot](../master/screenshot/screenshot.png?raw=true)
+![Screenshot](../master/screenshot.png?raw=true)
 
-Live demo here: https://pawroman.github.io/zola-theme-terminimal/
+See the live demo (of the default configuration) here:
+https://pawroman.github.io/zola-theme-terminimal/
 
-Tested with Zola v0.11.0.
+Tested with Zola v0.16.1. Please note that earlier versions might not work because of breaking changes across Zola versions.
 
 #### Fork disclaimer
 
